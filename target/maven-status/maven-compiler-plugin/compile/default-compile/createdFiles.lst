@@ -1,0 +1,12 @@
+com\mycompany\jpa\Jpa.class
+com\mycompany\jpa\persistence\StudentJpaController.class
+com\mycompany\jpa\persistence\exceptions\PreexistingEntityException.class
+com\mycompany\jpa\logic\Degree_.class
+com\mycompany\jpa\logic\Student_.class
+com\mycompany\jpa\persistence\exceptions\IllegalOrphanException.class
+com\mycompany\jpa\logic\Student.class
+com\mycompany\jpa\logic\Degree.class
+com\mycompany\jpa\logic\Manager.class
+com\mycompany\jpa\persistence\PersistanceController.class
+com\mycompany\jpa\persistence\DegreeJpaController.class
+com\mycompany\jpa\persistence\exceptions\NonexistentEntityException.class

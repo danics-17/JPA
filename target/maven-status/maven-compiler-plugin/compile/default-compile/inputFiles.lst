@@ -1,0 +1,10 @@
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\PersistanceController.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\exceptions\IllegalOrphanException.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\Jpa.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\logic\Degree.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\logic\Student.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\exceptions\NonexistentEntityException.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\logic\Manager.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\DegreeJpaController.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\StudentJpaController.java
+C:\Users\34632\Documents\NetBeansProjects\jpa\src\main\java\com\mycompany\jpa\persistence\exceptions\PreexistingEntityException.java
